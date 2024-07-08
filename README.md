@@ -1,5 +1,5 @@
 
-# Python MySQL Gym Database
+# Python CLI MySQL Gym Database
 
 Python cli for Gym MySQL Database.
 
