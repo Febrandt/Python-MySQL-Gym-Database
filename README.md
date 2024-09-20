@@ -6,6 +6,8 @@ Python cli for Gym MySQL Database.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
+![image](https://github.com/user-attachments/assets/bed4f019-a7b7-44f0-b0f6-624437b155b4)
+
 
 ## Database Explanation
 
@@ -74,3 +76,5 @@ Here a simple and concise code explanation.
 
 It was possible to understand MySQL commands as well as their integration into Python.
 The ideas of connecting to the database, cursor, etc, were learned.
+
+
